@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+p{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: #000000;
+    font-size: 30px;
+    font-weight: 700;
+}
+h2{
+    font-size: 8rem;
+    text-align: center;
+    margin-top: 10px;
+    background-color: #39FF14;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+.button{
+    padding: 20px;
+    margin: 0 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+#rock{
+    font-size: 10rem;
+}
+#paper{
+    font-size: 10rem;
+}
+#scissor{
+    font-size: 10rem;
+}
+#result{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 30px;
+    width: 50vw;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 5px;
+    font-size: 45px;
+    
+}
