@@ -27,17 +27,15 @@ button{
     border: none;
     cursor: pointer;
     border-radius: 5px;
+    font-size: 4rem;
 }
 #rock{
-    font-size: 10rem;
     background-color: #FF00FF;
 }
 #paper{
-    font-size: 10rem;
     background-color: aqua;
 }
 #scissor{
-    font-size: 10rem;
     background-color: aquamarine;
 }
 #result{
