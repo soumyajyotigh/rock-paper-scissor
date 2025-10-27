@@ -11,12 +11,13 @@ p{
     color: #000000;
     font-size: 30px;
     font-weight: 700;
+    background-color: #FF00FF;
 }
 h2{
     font-size: 8rem;
     text-align: center;
     margin-top: 10px;
-    background-color: #39FF14;
+    background-color: #FFFF00;
 }
 .buttons{
     display: flex;
