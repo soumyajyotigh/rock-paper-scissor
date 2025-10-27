@@ -1,4 +1,4 @@
-const btnEle = document.querySelectorAll(".button")
+const btnEle = document.querySelectorAll("button")
 
 const userScoreEle = document.getElementById("user-score")
 const compScoreEle = document.getElementById("computer-score")
