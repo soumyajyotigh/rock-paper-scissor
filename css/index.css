@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    text-align: center;
     font-family: Arial;
 }
 p{
@@ -11,14 +11,14 @@ p{
     color: #000000;
     font-size: 20px;
     font-weight: 700;
-    background-color: #FFFF00;
+    
 }
 h3{
-    font-size: 2rem;
+    font-size: 8rem;
     text-align: center;
     margin-top: 10px;
-    background-color: #FF00FF;
-    color: #ffffff;
+    background-color: #FFFF00;
+    color: #000000;
 }
 .buttons{
     display: flex;
@@ -43,14 +43,10 @@ h3{
     font-size: 10rem;
 }
 #result{
-    background-color: #000000;
-    color: #ffffff;
-    padding: 30px;
-    width: 50vw;
-    position: relative;
-    left: 50%;
-    transform: translate(-50%);
-    border-radius: 5px;
-    font-size: 45px;
-    
+background-color: #000000;
+color: #ffffff;
+font-size: 2rem;
+display: inline;
+padding: 1rem;
+border-radius: 1rem;
 }
