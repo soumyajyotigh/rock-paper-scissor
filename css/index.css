@@ -30,12 +30,15 @@ h1{
 }
 #rock{
     font-size: 10rem;
+    background-color: #FF00FF;
 }
 #paper{
     font-size: 10rem;
+    background-color: aqua;
 }
 #scissor{
     font-size: 10rem;
+    background-color: aquamarine;
 }
 #result{
 background-color: #000000;
