@@ -8,11 +8,11 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 700;
 }
 h1{
-    font-size: 2rem;
+    font-size: 10rem;
     background-color: #FFFF00;
 }
 .buttons{
@@ -40,7 +40,7 @@ button{
 #result{
 background-color: #000000;
 color: #ffffff;
-font-size: 2rem;
+font-size: 5rem;
 display: inline;
 padding: 1rem;
 border-radius: 1rem;
