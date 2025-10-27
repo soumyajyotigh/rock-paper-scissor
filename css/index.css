@@ -11,14 +11,14 @@ p{
     color: #000000;
     font-size: 20px;
     font-weight: 700;
-    
 }
-h3{
-    font-size: 8rem;
+h1{
+    font-size: 2rem;
     text-align: center;
     margin-top: 10px;
-    background-color: #FFFF00;
-    color: #000000;
+    background-color: #FF00FF;
+    color: #ffffff;
+    
 }
 .buttons{
     display: flex;
@@ -49,4 +49,8 @@ font-size: 2rem;
 display: inline;
 padding: 1rem;
 border-radius: 1rem;
+margin-top: 5rem;
+}
+#scoreboard{
+    background-color: #FFFF00;
 }
