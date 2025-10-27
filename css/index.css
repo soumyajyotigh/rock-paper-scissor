@@ -14,9 +14,9 @@ p{
 }
 h1{
     font-size: 2rem;
-    background-color: #FF00FF;
-    color: #ffffff;
-    line-height: 5rem;
+    background-color: #FFFF00;
+    color: #000000;
+
 }
 .buttons{
     display: flex;
@@ -49,6 +49,4 @@ padding: 1rem;
 border-radius: 1rem;
 margin-top: 5rem;
 }
-#scoreboard{
-    background-color: #FFFF00;
-}
+
