@@ -6,7 +6,7 @@
 }
 p{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     padding: 20px;
     color: #000000;
     font-size: 20px;
