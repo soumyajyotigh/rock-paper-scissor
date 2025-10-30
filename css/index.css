@@ -27,6 +27,7 @@ button{
     border: none;
     cursor: pointer;
     font-size: 4rem;
+    border-radius: 250px;
 }
 #rock{
     background-color: #FF00FF;
